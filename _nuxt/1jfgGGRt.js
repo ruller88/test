@@ -1,0 +1,1 @@
+import{_ as t,t as c,v as e}from"./BbI2I6qF.js";const a={},o={class:"activity-container"};function s(n,_){return e(),c("div",o," 活动页 ")}const i=t(a,[["render",s],["__scopeId","data-v-a6e479f6"]]);export{i as default};

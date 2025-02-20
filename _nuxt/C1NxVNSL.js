@@ -1,0 +1,1 @@
+import{_ as e,t as c,v as t}from"./BbI2I6qF.js";const r={},o={class:"flex flex-items-center justify-center h-48px border-1 border-#dcdcdc border-solid"};function s(n,d){return t(),c("div",o," Impact ")}const _=e(r,[["render",s]]);export{_ as default};

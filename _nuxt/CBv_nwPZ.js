@@ -1,0 +1,1 @@
+import{J as s,r as n,d as r,K as c,v as _,L as a}from"./BbI2I6qF.js";const m=s("common",()=>{const e=n(""),o=n({});return{token:e,userInfo:o}},{persist:!0}),f=r({__name:"index",setup(e){return m(),(o,p)=>{const t=a;return _(),c(t)}}});export{f as default};

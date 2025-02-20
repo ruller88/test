@@ -1,0 +1,1 @@
+import{_ as e,t as c,v as t}from"./BbI2I6qF.js";const o={},r={class:"firm-container"};function s(n,_){return t(),c("div",r," 1111111111111111111111111111111111111111111111111 ")}const f=e(o,[["render",s],["__scopeId","data-v-2d93794f"]]);export{f as default};
